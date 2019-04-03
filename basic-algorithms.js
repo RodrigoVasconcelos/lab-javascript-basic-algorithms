@@ -29,8 +29,8 @@ for (var i = 0; i < hacker1.length ; i++) {
 for (var i = hacker1.length ; i >= 0 ; i--) {
   console.log(hacker1[i])
 }
- 
-var lexicOrder = lexicOrder.push(hacker2[1]);
+
+
 
 // Lorem ipsum generator
 
